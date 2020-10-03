@@ -1,1 +1,1 @@
-5. mengapa CI/CD diperlukan? , karena 
+5. mengapa CI/CD diperlukan? , karena CI/CD dapat mengurangi risiko software yang tidak berfungsi dengan baik dalam produksi. CI/CD dapat membuat rapid iteration berdasarkan feedback pelanggan yang nyata. CI/CD dapat pulih lebih cepat ketika terjadi kegagalan.
