@@ -1,0 +1,1 @@
+6. karena tools ftp bisa mengambil atau mentransfer data melalui internet dari jarak jauh dari komputer satu ke komputer lainnya jadi sangat memudahkan.
